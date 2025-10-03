@@ -6,7 +6,7 @@ The Connection Tool for ALegoActor Inside Unreal Engine 5
 
 - CURRENT BUGS & MISSING FEATURE:
 - MISSING -> Automation tests for Serialize/Deserialize. My time ran out :(
-- MISSING -> Functions for Change Shape & Change Color. My time ran out :(
+- MISSING -> Functions for Change Size & Change Color. My time ran out :(
 
 - BUG -> There is a bug when deleting a connected actor, The reference becomes null, but the other connection data remain instead of being cleared.
 - BUG -> When loading, if Lego actors with connections are deleted, after loading they respawn but all their connections point to the first Lego actor!
