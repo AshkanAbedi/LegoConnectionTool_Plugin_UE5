@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"C:\\Builds\\MyPlugin_Packaged\\HostProject\\Plugins\\LegoConnectionTool\\Source\\LegoConnectionToolEditor\\LegoConnectionToolEditor.Build.cs",
+		"C:\\Builds\\MyPlugin_Packaged\\HostProject\\Plugins\\LegoConnectionTool\\Source\\LegoConnectionTool\\LegoConnectionTool.Build.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

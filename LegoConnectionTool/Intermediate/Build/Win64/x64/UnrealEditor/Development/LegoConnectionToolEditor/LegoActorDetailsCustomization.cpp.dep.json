@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontooleditor\\private\\legoactordetailscustomization.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\builds\\myplugin_packaged\\hostproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\legoconnectiontooleditor\\definitions.legoconnectiontooleditor.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontooleditor\\public\\legoactordetailscustomization.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomization.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\detaillayoutbuilder.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\idetailpropertyrow.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\detailcategorybuilder.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomnodebuilder.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\detailbuildertypes.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\propertyeditorcopypaste.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\detailwidgetrow.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\runtime\\slate\\public\\widgets\\input\\sslider.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\engineutils.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontool\\public\\legoactor.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontool\\public\\eshapetypes.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\unrealeditor\\inc\\legoconnectiontool\\uht\\eshapetypes.generated.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\unrealeditor\\inc\\legoconnectiontool\\uht\\legoactor.generated.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontool\\public\\legolevelserializer.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\unrealeditor\\inc\\legoconnectiontool\\uht\\legolevelserializer.generated.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

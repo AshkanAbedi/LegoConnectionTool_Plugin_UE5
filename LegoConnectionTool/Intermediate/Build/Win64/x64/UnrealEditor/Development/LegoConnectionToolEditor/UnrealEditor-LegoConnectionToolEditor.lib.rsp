@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LegoConnectionToolEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Builds/MyPlugin_Packaged/HostProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:/Builds/MyPlugin_Packaged/HostProject/Plugins/LegoConnectionTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/LegoConnectionToolEditor/LegoActorDetailsCustomization.cpp.obj"
+"C:/Builds/MyPlugin_Packaged/HostProject/Plugins/LegoConnectionTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/LegoConnectionToolEditor/LegoConnectionToolEditor.cpp.obj"
+"C:/Builds/MyPlugin_Packaged/HostProject/Plugins/LegoConnectionTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/LegoConnectionToolEditor/PerModuleInline.gen.cpp.obj"
+"C:/Builds/MyPlugin_Packaged/HostProject/Plugins/LegoConnectionTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/LegoConnectionToolEditor/Default.rc2.res"
+/OUT:"C:/Builds/MyPlugin_Packaged/HostProject/Plugins/LegoConnectionTool/Intermediate/Build/Win64/x64/UnrealEditor/Development/LegoConnectionToolEditor/UnrealEditor-LegoConnectionToolEditor.lib"

@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LegoConnectionTool.gen.cpp.obj": [
+			"EShapeTypes.gen.cpp.obj",
+			"LegoActor.gen.cpp.obj",
+			"LegoConnectionTool.init.gen.cpp.obj",
+			"LegoLevelSerializer.gen.cpp.obj"
+		]
+	}
+}

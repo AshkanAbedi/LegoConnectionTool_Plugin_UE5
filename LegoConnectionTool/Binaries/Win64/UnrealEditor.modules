@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"LegoConnectionTool": "UnrealEditor-LegoConnectionTool.dll",
+		"LegoConnectionToolEditor": "UnrealEditor-LegoConnectionToolEditor.dll"
+	}
+}

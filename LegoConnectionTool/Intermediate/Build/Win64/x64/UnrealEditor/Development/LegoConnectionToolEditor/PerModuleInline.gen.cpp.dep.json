@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\legoconnectiontooleditor\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\builds\\myplugin_packaged\\hostproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\legoconnectiontooleditor\\definitions.legoconnectiontooleditor.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

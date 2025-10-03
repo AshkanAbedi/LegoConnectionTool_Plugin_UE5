@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LegoConnectionTool\\Module.LegoConnectionTool.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LegoConnectionTool\\LegoActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LegoConnectionTool\\LegoConnectionTool.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LegoConnectionTool\\LegoLevelSerializer.cpp.obj"
+	]
+}

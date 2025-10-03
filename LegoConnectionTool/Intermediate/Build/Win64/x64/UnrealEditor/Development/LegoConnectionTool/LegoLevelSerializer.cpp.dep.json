@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontool\\private\\legolevelserializer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\builds\\myplugin_packaged\\hostproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\legoconnectiontool\\definitions.legoconnectiontool.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontool\\public\\legolevelserializer.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontool\\public\\eshapetypes.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\unrealeditor\\inc\\legoconnectiontool\\uht\\eshapetypes.generated.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\unrealeditor\\inc\\legoconnectiontool\\uht\\legolevelserializer.generated.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontool\\public\\legoactor.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\unrealeditor\\inc\\legoconnectiontool\\uht\\legoactor.generated.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\engineutils.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectconverter.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectwrapper.h",
+            "c:\\unreal\\engine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonutilities\\uht\\jsonobjectwrapper.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

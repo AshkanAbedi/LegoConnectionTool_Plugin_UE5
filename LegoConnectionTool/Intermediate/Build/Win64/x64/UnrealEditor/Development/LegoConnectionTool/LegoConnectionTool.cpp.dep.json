@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontool\\private\\legoconnectiontool.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\builds\\myplugin_packaged\\hostproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\legoconnectiontool\\definitions.legoconnectiontool.h",
+            "c:\\builds\\myplugin_packaged\\hostproject\\plugins\\legoconnectiontool\\source\\legoconnectiontool\\public\\legoconnectiontool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
